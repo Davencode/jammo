@@ -1,0 +1,10 @@
+{
+  "_nota": "Parametri della simulazione. Ogni voce dice se il dato è reale (con fonte) o simulato/ipotesi.",
+  "auto_tratto_chiuso_6_10": {"valore": 9800, "tipo": "simulato", "nota": "Quota del traffico della Tangenziale (circa 270.000 transiti al giorno) che passa sul tratto chiuso tra le 6 e le 10."},
+  "transiti_tangenziale_giorno": {"valore": 270000, "tipo": "reale", "fonte": "Tangenziale di Napoli SpA, citata da Telepass", "url": "https://www.telepass.com/it/privati/servizi/telepedaggio/tangenziale-napoli-autostrada-a56"},
+  "capacita_rampa_auto_ora": {"valore": 1600, "tipo": "ipotesi", "nota": "Valore tipico per una rampa a una corsia; da sostituire con i dati dei sensori della Tangenziale."},
+  "metro_l1_frequenza_min": {"valore": 8, "tipo": "reale", "fonte": "Frequenza media della Linea 1 ANM; orari completi nel feed GTFS di ANM", "url": "https://transit.land/feed-registry/operators/o-s-aziendanapoletanamobilit"},
+  "metro_l1_auto_assorbite_ora": {"valore": 600, "tipo": "ipotesi", "nota": "Automobilisti all'ora che la metro può assorbire in più."},
+  "quota_libera_non_utenti": {"valore": 0.15, "tipo": "regola di Jammo"},
+  "quota_adozione": {"valori": [0.2, 0.35, 0.5], "tipo": "scenari"}
+}
