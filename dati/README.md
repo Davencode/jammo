@@ -19,7 +19,7 @@ I sensori servono a Jammo in due modi: come **dati** (quante auto passano, dove 
 | Tangenziale di Napoli, prima smart road certificata dal MIT (giugno 2026) | 217 telecamere intelligenti, 15 portali di rilevamento, 8 centraline meteo, 40 antenne V2X; dati raccolti sulla piattaforma C-ITS di Movyon | auto per rampa e per fascia oraria, velocità, pioggia e stato dell’asfalto | [Euronews](https://it.euronews.com/next/2026/06/11/tangenziale-di-napoli-e-la-prima-smart-road-ditalia-cosi-cambia-la-mobilita-del-futuro), [ItaliaOggi](https://www.italiaoggi.it/economia-e-politica/economia-e-finanza/e-a-napoli-la-prima-smart-road-ditalia-mpxqxpd5) |
 | Comune di Napoli, sala operativa centrale | semafori intelligenti con telecamere (prime prove a Fuorigrotta e Agnano) e pannelli a messaggio variabile | code agli incroci; tempi dei semafori (per esempio un verde più lungo all’uscita di un concerto); messaggi sui pannelli | [Napolike](https://www.napolike.com/semafori-intelligenti-a-napoli-con-le-telecamere-a-fuorigrotta-e-agnano-come-funzionano), [Fanpage](https://www.fanpage.it/napoli/cosa-sono-i-pannelli-luminosi-installati-nelle-strade-di-napoli-in-questi-giorni/) |
 
-## Dati simulati (servono accordi)
+## Dati simulati
 | Dato | Perché è simulato | Da chi arriverebbe |
 |---|---|---|
 | Auto per rampa e per fascia oraria | i sensori esistono, ma i dati non sono pubblici | sensori IoT della Tangenziale (piattaforma C-ITS) |
